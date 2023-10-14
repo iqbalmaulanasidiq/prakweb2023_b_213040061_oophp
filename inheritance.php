@@ -55,7 +55,7 @@
 
     $produk3 = new Komik("Naruto", "Masashi Kishimoto", "Shonen Jump", 45000, 100, 0, "Komik");
 
-    $produk4 = new Game("osu!", "peppy", "peppy", 0, 0, 500, "Game");
+    $produk4 = new Game("CS", "peppy", "peppy", 0, 0, 500, "Game");
     
     echo "<hr>";
 
